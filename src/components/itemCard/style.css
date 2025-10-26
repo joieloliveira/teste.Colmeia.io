@@ -1,0 +1,9 @@
+.itemCard{
+    margin: 10px;
+    width: 200px;
+    padding: 10px;
+    height: 350px;
+}
+.itemCard .imgCard > img{
+    border-radius: 0.6rem;
+}

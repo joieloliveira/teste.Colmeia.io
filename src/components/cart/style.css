@@ -1,0 +1,12 @@
+@media(max-width: 580px) {
+    .carrinhoPage .carrinhoPageBox{
+        display: flex;
+        flex-direction: column;
+    }
+    .carrinhoPage .carrinhoPageBox2{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 200px;
+    }
+}
