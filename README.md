@@ -38,8 +38,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Para instalar e rodas o progeto 
 ```bash
 git clone <repo>
+cd teste.Colmeia.io
 npm install
-npm run build    # cria a pasta .next
+npm run build # cria a pasta .next
 npm start        
 #or
 npm run dev # ou npm run dev para desenvolvimento
